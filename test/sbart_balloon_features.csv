@@ -1,4 +1,4 @@
-balloon_number,outcome,total_balloon_time (s),number_of_tokens,number_of_pump_actions,number_of_release_actions,id
+balloon_number,outcome,total_balloon_time,number_of_tokens,number_of_pump_actions,number_of_release_actions,id
 0.0,cashed,7.88962507253,32.0,13.0,13.0,135
 1.0,popped,5.292940855000001,27.0,3.0,2.0,135
 2.0,cashed,8.640955925,32.0,7.0,7.0,135
