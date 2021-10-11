@@ -16,7 +16,6 @@ def main():
     sns.histplot(predictions)
     print(model.summary())
 
-
     # ax = sns.histplot(df["hold_ratio"])
     plt.show()
 
